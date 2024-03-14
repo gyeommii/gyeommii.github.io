@@ -1,4 +1,4 @@
-# gyeommii.github.io
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ff9e9e&height=120&text=Gyeommii's%20Github&animation=&fontColor=3d3d3d&fontSize=60" />
     </div>
